@@ -10,4 +10,4 @@ spring:
     driverClassName: org.h2.Driver
 logging:
   file:
-    name: logfile.log
+    name: log/logfile.log
